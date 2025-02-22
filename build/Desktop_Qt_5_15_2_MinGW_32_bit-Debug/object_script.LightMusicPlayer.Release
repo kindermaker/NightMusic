@@ -1,0 +1,12 @@
+release/main.o
+release/Music.o
+release/MainWidget.o
+release/MusicListWidget.o
+release/MusicList.o
+release/MusicListDialog.o
+release/LyricWidget.o
+release/qrc_imagefile.o
+release/moc_MainWidget.o
+release/moc_MusicListWidget.o
+release/moc_MusicListDialog.o
+release/moc_LyricWidget.o
